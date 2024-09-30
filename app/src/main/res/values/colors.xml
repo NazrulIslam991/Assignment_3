@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="your_box_stroke_color">#FF0000</color> <!-- Red stroke -->
+    <color name="your_hint_color">#009688</color> <!-- Teal hint -->
+    <color name="your_text_color">#000000</color> <!-- Black text -->
+    <color name="your_error_color">#FF5722</color> <!-- Deep orange for error -->
+    <color name="your_helper_color">#8BC34A</color> <!-- Light green for helper text -->
+    <color name="home">#A8C3DA</color>
+
+</resources>

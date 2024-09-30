@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Assignment_3</string>
+    <string name="club_membership_registration">Club Membership Registration</string>
+    <string name="sub_title">Fill out the form carefully for registration</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_email">Student Email</string>
+    <string name="mobile_number">Mobile number</string>
+    <string name="birth_date">Birth Date :</string>
+    <string name="day">Day</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="address">Address :</string>
+    <string name="street_address">Street Address</string>
+    <string name="city">City</string>
+    <string name="state_province">State / Province</string>
+    <string name="postal_zip_code">Postal / Zip code</string>
+    <string name="where_did_you_hear_about_us">Where did you hear about us?</string>
+    <string name="a_friend_or_colleauge">A friend or colleauge</string>
+    <string name="google">Google</string>
+    <string name="blog_post">Blog post</string>
+    <string name="news_articles">News Articles</string>
+    <string name="others">Others</string>
+    <string name="membership_type">Membership Type</string>
+    <string name="standard">Standard</string>
+    <string name="premium">Premium</string>
+    <string name="ultimate">Ultimate</string>
+    <string name="preferred_way_to_contact">Preferred way to contact</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="any">Any</string>
+    <string name="membership_rules">Membership Rules</string>
+    <string name="_1_membership_is_available_to_anyone_18_years_of_age_or_older">1. Membership is available to anyone 18 years of age or older.</string>
+    <string name="_2_you_promise_not_to_use_to_conduct_any_fraudulent_or_business_activity_or_have_more_than_one_member_account_at_any_time">2. You promise NOT to use to conduct any fraudulent or business activity or have more than one Member Account at any time.</string>
+    <string name="submit_application">Submit Application</string>
+    <string name="show_application">show Application</string>
+</resources>
